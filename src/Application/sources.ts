@@ -90,6 +90,11 @@ const sources: Resource[] = [
         path: 'audio/atmosphere/office.mp3',
     },
     {
+        name: 'piano',
+        type: 'audio',
+        path: 'audio/atmosphere/piano.mp3',
+    },
+    {
         name: 'ccType',
         type: 'audio',
         path: 'audio/cc/type.mp3',
